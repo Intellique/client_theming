@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/client">
-        <file>theme/colored/Nextcloud-icon-512.png</file>
+        <file>theme/colored/intellique-icon-512.png</file>
         <file>theme/colored/intellique-icon-256.png</file>
         <file>theme/colored/intellique-icon-128.png</file>
         <file>theme/colored/intellique-icon-22.png</file>
